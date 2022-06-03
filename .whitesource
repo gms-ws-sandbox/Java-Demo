@@ -1,10 +1,11 @@
 {
-  "scanSettings": {
+  "scanSettings": {    
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableLicenseViolations": true
+    "enableLicenseViolations": true,
+    "enableSAST" : "true"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
